@@ -2,8 +2,8 @@
 A browser UserScript that reverts the recent YouTube UI update that nobody wanted.
 ## Installing
 Use a UserScript extension:
-- Firefox [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-- Chrome [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Greasemonkey [Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+- Tampermonkey [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 Then create a new script and paste [this code](https://github.com/Wolfyxon/YouTube-UI-revert/blob/main/YouTube-UI-revert.js)
 
