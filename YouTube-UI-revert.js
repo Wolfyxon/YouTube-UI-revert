@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     YouTube UI update revert
 // @description	Reverts the YouTube UI update by disabling an experiment
+// @match	*://*.youtube.com/*
 // @version  1
 // @grant    none
 // ==/UserScript==
