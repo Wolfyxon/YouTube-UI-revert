@@ -1,5 +1,8 @@
 # YouTube UI Revert
 A browser UserScript that reverts the recent YouTube UI update that nobody wanted.
+
+[Greasy Fork page](https://greasyfork.org/en/scripts/488679-youtube-ui-update-revert)
+
 ## Installing
 Use a UserScript extension:
 - Greasemonkey [Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
