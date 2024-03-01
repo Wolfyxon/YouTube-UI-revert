@@ -4,6 +4,7 @@
 // @namespace	https://github.com/Wolfyxon/YouTube-UI-revert/
 // @downloadURL	https://github.com/Wolfyxon/YouTube-UI-revert/raw/main/YouTube-UI-revert.js
 // @updateURL	https://github.com/Wolfyxon/YouTube-UI-revert/raw/main/YouTube-UI-revert.js
+// @license LGPL-2.1
 // @match	*://*.youtube.com/*
 // @version  1
 // @grant    none
