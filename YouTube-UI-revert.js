@@ -10,5 +10,6 @@
 // @grant    none
 // ==/UserScript==
 
-// NOTE: the 'yt' object is only accessible when using 'unsafeWindow'
+// NOTE: the 'yt' object is only accessible on Firefox with Greasemonkey when using 'unsafeWindow'
 unsafeWindow.yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid = false;
+window.yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid = false;
