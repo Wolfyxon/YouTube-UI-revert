@@ -10,6 +10,8 @@
 // @grant    none
 // ==/UserScript==
 
+const enableNewYouTubePlayer = false;
+
 // NOTE: the 'yt' object is only accessible on Firefox with Greasemonkey when using 'unsafeWindow'
-unsafeWindow.yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid = false;
-window.yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid = false;
+unsafeWindow.yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid = enableNewYouTubePlayer;
+window.yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid = enableNewYouTubePlayer;
